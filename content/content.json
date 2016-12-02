@@ -40,5 +40,12 @@
         "image": "mickey.png",
         "key":"Y",
         "keycode":89
+    },
+    {
+        "title": "DAAAAMN",
+        "sound": "damndaniel.mp3",
+        "image": "damndaniel.png",
+        "key":"U",
+        "keycode":85
     }
 ]
