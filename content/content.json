@@ -26,5 +26,19 @@
         "image": "issou.jpeg",
         "key":"R",
         "keycode":82
+    },
+    {
+        "title": "Tequila Heineken!!",
+        "sound": "tequila.mp3",
+        "image": "tequila.png",
+        "key":"T",
+        "keycode":84
+    },
+    {
+        "title": "MICKEY",
+        "sound": "mickey.mp3",
+        "image": "mickey.png",
+        "key":"Y",
+        "keycode":89
     }
 ]
