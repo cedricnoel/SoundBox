@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Ah!",
+        "sound": "ah.mp3",
+        "image": "ah.png",
+        "key":"A",
+        "keycode":65
+    },
+    {
+        "title": "Zbeub zbeub",
+        "sound": "zbeub.mp3",
+        "image": "zbeub.png",
+        "key":"Z",
+        "keycode":90
+    },
+    {
+        "title": "Njut njut",
+        "sound": "camion.mp3",
+        "image": "camion.png",
+        "key":"E",
+        "keycode":69
+    },
+    {
+        "title": "Issou!!!!",
+        "sound": "issou.mp3",
+        "image": "issou.jpeg",
+        "key":"R",
+        "keycode":82
+    }
+]
