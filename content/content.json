@@ -47,5 +47,61 @@
         "image": "damndaniel.png",
         "key":"U",
         "keycode":85
+    },
+    {
+        "title": "Ca va cartonner",
+        "sound": "cavacartonner.mp3",
+        "image": "ldfcsn.jpg",
+        "key":"I",
+        "keycode":73
+    },
+    {
+        "title": "Yamete Kudasai",
+        "sound": "yamete.mp3",
+        "image": "yamete.jpg",
+        "key":"O",
+        "keycode":79
+    },
+    {
+        "title": "Déchainé moi",
+        "sound": "dechaine.mp3",
+        "image": "dechainemoi.jpg",
+        "key":"P",
+        "keycode":80
+    },
+    {
+        "title": "Allo quoi",
+        "sound": "allo.mp3",
+        "image": "allo.jpg",
+        "key":"Q",
+        "keycode":81
+    },
+    {
+        "title": "As-tu vu ?",
+        "sound": "quenouille.mp3",
+        "image": "maxresdefault.jpg",
+        "key":"S",
+        "keycode":83
+    },
+    {
+        "title": "Whaou Wally",
+        "sound": "waow.mp3",
+        "image": "wally.jpg",
+        "key":"D",
+        "keycode":68
+    },
+    {
+        "title": "Trololo",
+        "sound": "trololo.mp3",
+        "image": "trololo.jpg",
+        "key":"F",
+        "keycode":70
+    },
+    {
+        "title": "La Chancla",
+        "sound": "issouv2.mp3",
+        "image": "chancla.png",
+        "key":"G",
+        "keycode":71
     }
 ]
