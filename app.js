@@ -34,14 +34,19 @@ function soundKey(i){
 $(document).ready(function(){
 
     $("body").keydown(function(e) {
-
         for(var i in json)
         {
             if(e.keyCode == json[i].keycode){
                 soundKey(i);
             }
         }
-
     });
+
+     $(".soundkey").click(function(){
+        soundKey(this.id);
+    });
+
+   
+
 })
 

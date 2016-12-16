@@ -21,7 +21,7 @@
         "keycode":69
     },
     {
-        "title": "Issou",
+        "title": "Issou Risitas",
         "sound": "issou.mp3",
         "image": "issou.jpeg",
         "key":"R",
@@ -103,5 +103,33 @@
         "image": "chancla.png",
         "key":"G",
         "keycode":71
+    },
+    {
+        "title": "kariis",
+        "sound": "kariis.mp3",
+        "image": "puteuh.jpg",
+        "key":"H",
+        "keycode":72
+    },
+    {
+        "title": "Pokemon go",
+        "sound": "iplaypokemongo.mp3",
+        "image": "iplaypokemongo.jpg",
+        "key":"J",
+        "keycode":74
+    },
+    {
+        "title": "Gitan",
+        "sound": "gitan.mp3",
+        "image": "gitan.jpg",
+        "key":"K",
+        "keycode":75
+    },
+    {
+        "title": "Kazoo",
+        "sound": "kazoo.mp3",
+        "image": "kazoo.jpg",
+        "key":"L",
+        "keycode":76
     }
 ]
